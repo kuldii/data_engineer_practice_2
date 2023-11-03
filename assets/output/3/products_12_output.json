@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Melon",
+        "averagePrice": 50.27197560975608
+    },
+    {
+        "name": "Strawberry",
+        "averagePrice": 51.106260869565205
+    },
+    {
+        "name": "Apple",
+        "averagePrice": 53.48787878787879
+    },
+    {
+        "name": "Papaya",
+        "averagePrice": 54.124623115577926
+    },
+    {
+        "name": "Mango",
+        "averagePrice": 51.55718204488774
+    },
+    {
+        "name": "Cranberry",
+        "averagePrice": 51.44743243243242
+    },
+    {
+        "name": "Kiwifruit",
+        "averagePrice": 51.29065963060686
+    },
+    {
+        "name": "Cherry",
+        "averagePrice": 52.879456790123506
+    },
+    {
+        "name": "Blackberry",
+        "averagePrice": 52.37688888888888
+    },
+    {
+        "name": "Guava",
+        "averagePrice": 54.19774096385542
+    },
+    {
+        "name": "Boysenberry",
+        "averagePrice": 52.60688022284124
+    },
+    {
+        "name": "Grapes",
+        "averagePrice": 54.54362530413629
+    },
+    {
+        "name": "Peach",
+        "averagePrice": 51.62028947368426
+    },
+    {
+        "name": "Raspberry",
+        "averagePrice": 53.287160493827166
+    },
+    {
+        "name": "Orange",
+        "averagePrice": 52.841093750000006
+    },
+    {
+        "name": "Plum",
+        "averagePrice": 51.120690537084364
+    },
+    {
+        "name": "Blueberry",
+        "averagePrice": 50.50703125000002
+    },
+    {
+        "name": "Banana",
+        "averagePrice": 54.352595419847354
+    },
+    {
+        "name": "Pineapple",
+        "averagePrice": 52.02498630136989
+    },
+    {
+        "name": "Apricot",
+        "averagePrice": 52.99395886889462
+    }
+]
