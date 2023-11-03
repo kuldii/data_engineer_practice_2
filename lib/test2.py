@@ -53,7 +53,7 @@ try:
     json_object_original = json.dumps(output, indent=4, cls=NpEncoder)
     
     # Export the result to json
-    with open("assets/output/2/"+fileName+"_output_size.json", "w") as outfile:
+    with open("assets/output/2/"+fileName+"_output.json", "w") as outfile:
         outfile.write(json_object_original)
         
 except Exception as e:
