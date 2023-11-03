@@ -105,6 +105,10 @@ try:
         outfile.write(json_object_original)
     with open("assets/output/1/"+fileName+"_normalize_output.json", "w") as outfile:
         outfile.write(json_object_normalize)
+    
+    # Save normalize matrix to npy
+    np.save("assets/output/1/"+fileName+"_normalize.npy", normalizeDataMatrix)
+        
         
 except Exception as e:
     print(e)
