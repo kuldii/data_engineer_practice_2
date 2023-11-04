@@ -159,7 +159,7 @@ try:
     
     # Export the result to msgpack
     with open("assets/output/5/output_categories.msgpack", "wb") as outfile:
-        packed = msgpack.packb(data)
+        packed = msgpack.packb(outputCategories)
         outfile.write(packed)
     
     # Get file size
