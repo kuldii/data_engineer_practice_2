@@ -1,0 +1,1 @@
+https://data.longbeach.gov/api/explore/v2.1/catalog/datasets/animal-shelter-intakes-and-outcomes/exports/json?lang=en&timezone=Asia%2FKarachi
