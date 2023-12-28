@@ -8,9 +8,9 @@ def getFileSize(file):
     return os.path.getsize(file)
 
 def saveToMsgpack(name, data):
-    with open("assets/output/3/resolved/"+name, "wb") as jsonFile:
+    with open("assets/output/3/resolved/"+name, "wb") as msgpackFile:
         packed = msgpack.packb(data)
-        jsonFile.write(packed)
+        msgpackFile.write(packed)
         
 def saveToJson(name, data):
     with open("assets/output/3/resolved/"+name, 'w') as jsonFile:
